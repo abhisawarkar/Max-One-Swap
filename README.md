@@ -1,2 +1,4 @@
 # Max-One-Swap
-Sorts list with one swap 
+
+- List has one element in wrong position ( swapped with other element )
+- Sorts list with one swap 
